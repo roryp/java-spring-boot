@@ -1,11 +1,13 @@
+# https://github.com/roryp/java-spring-boot
+
+
+
 # Swagger + SpringFox + SpringBoot example
 
 This is a simple example to demonstrate Swagger with Spring Boot.  The integration
 is handled by SpringFox, a 3rd party library for enabling Swagger on Spring MVC projects.
 
 For more information on SpringFox, pleas visit [http://springfox.io](http://springfox.io)
-
-This demo is from [this repo](https://github.com/swagger-api/swagger-samples/tree/master/java/java-spring-boot)
 
 To run this do the following:
 
